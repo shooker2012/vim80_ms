@@ -1,0 +1,13 @@
+:Abolish	doc\abolish.txt	/*:Abolish*
+:S	doc\abolish.txt	/*:S*
+:Subvert	doc\abolish.txt	/*:Subvert*
+abolish	doc\abolish.txt	/*abolish*
+abolish-abbrev	doc\abolish.txt	/*abolish-abbrev*
+abolish-coercion	doc\abolish.txt	/*abolish-coercion*
+abolish-coercion-reversible	doc\abolish.txt	/*abolish-coercion-reversible*
+abolish-grep	doc\abolish.txt	/*abolish-grep*
+abolish-patterns	doc\abolish.txt	/*abolish-patterns*
+abolish-search	doc\abolish.txt	/*abolish-search*
+abolish-substitute	doc\abolish.txt	/*abolish-substitute*
+abolish.txt	doc\abolish.txt	/*abolish.txt*
+cr	doc\abolish.txt	/*cr*

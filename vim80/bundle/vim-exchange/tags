@@ -1,0 +1,16 @@
+cx	doc\exchange.txt	/*cx*
+cxc	doc\exchange.txt	/*cxc*
+cxx	doc\exchange.txt	/*cxx*
+exchange	doc\exchange.txt	/*exchange*
+exchange-clear	doc\exchange.txt	/*exchange-clear*
+exchange-define	doc\exchange.txt	/*exchange-define*
+exchange-define-line	doc\exchange.txt	/*exchange-define-line*
+exchange-examples	doc\exchange.txt	/*exchange-examples*
+exchange-issues	doc\exchange.txt	/*exchange-issues*
+exchange-mappings	doc\exchange.txt	/*exchange-mappings*
+exchange-settings	doc\exchange.txt	/*exchange-settings*
+exchange-todo	doc\exchange.txt	/*exchange-todo*
+exchange-visual	doc\exchange.txt	/*exchange-visual*
+exchange.txt	doc\exchange.txt	/*exchange.txt*
+g:exchange_no_mappings	doc\exchange.txt	/*g:exchange_no_mappings*
+v_X	doc\exchange.txt	/*v_X*
