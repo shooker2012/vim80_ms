@@ -15,12 +15,14 @@ vim80/syntax/*
 vim80/tools/*
 vim80/tutor/*
 vim80/bundle/QFEnter
+vim80/colors/README.txt
+vim80/pack/
 *.zip
 *.swp
 _vimrc~
 vim80/tags
 
-
+!vim80/lua53.dll
 !vim80/ctags.exe
 !vim80/autoload/pathogen.vim
 !vim80/autoload/textobj
