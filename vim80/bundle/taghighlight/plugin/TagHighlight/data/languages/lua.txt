@@ -1,0 +1,9 @@
+FriendlyName:lua
+CTagsName:lua
+PythonExtensionMatcher:lua
+VimExtensionMatcher:lua
+Suffix:lua
+VimSyntaxes:lua
+VimFileTypes:lua
+
+# vim: ff=unix:noet

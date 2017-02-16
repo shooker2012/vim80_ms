@@ -1,0 +1,3 @@
+[submodule "vim74/bundle/QFEnter"]
+	path = vim74/bundle/QFEnter
+	url = https://github.com/yssl/QFEnter.git

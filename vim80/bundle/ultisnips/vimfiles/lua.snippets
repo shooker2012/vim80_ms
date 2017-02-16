@@ -1,0 +1,29 @@
+snippet context
+context "$1" do
+	${0:${VISUAL:# assertions}}
+end
+endsnippet
+
+snippet fori=
+for i = $1, $2 do
+	${0:${VISUAL:--loop body }}
+end
+endsnippet
+
+snippet forip
+for $1, $2, in iparis($3) do
+	${0:${VISUAL:--loop body }}
+end
+endsnippet
+
+snippet forp
+for $1, $2, in paris($3) do
+	${0:${VISUAL:--loop body }}
+end
+endsnippet
+
+snippet if
+if $1 then
+	${0:${VISUAL:--body }}
+end
+endsnippet
