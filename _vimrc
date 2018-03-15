@@ -142,10 +142,14 @@ nnoremap <silent> <Leader>p "*p
 vnoremap <silent> <Leader>p "*p
 nnoremap <silent> <Leader>y "*y
 vnoremap <silent> <Leader>y "*y
+nnoremap <silent> <Leader>d "*d
+vnoremap <silent> <Leader>d "*d
 nnoremap <silent> <Leader>P "*P
 vnoremap <silent> <Leader>P "*P
 nnoremap <silent> <Leader>Y "*Y
 vnoremap <silent> <Leader>Y "*Y
+nnoremap <silent> <Leader>D "*D
+vnoremap <silent> <Leader>D "*D
 
 " "Use system clipboard default
 " set clipboard=unnamed
