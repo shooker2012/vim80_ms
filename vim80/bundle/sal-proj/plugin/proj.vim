@@ -22,7 +22,7 @@ let s:dictionary_postfix[ "vimproj" ] = 1
 let s:dictionary_postfix[ "_vimproj" ] = 1
 
 " [Interface] let salproj work!
-function! SalProjAwark( )
+function! SalProjAwake( )
 	" [plugin] SalProj
 	command! -nargs=1 SetProjType call SalProjSetType(<f-args>)
 	" command! -nargs=* OpenProj call SalChangeProjDir(<f-args>)
@@ -152,5 +152,5 @@ function! <SID>SalProjHit( )
 endfunction
 
 if  exists("sal_proj_awake") && g:sal_proj_awake == 1
-	call SalProjAwark( )
+	call SalProjAwake( )
 endif
