@@ -98,9 +98,9 @@ syn keyword fxType		point line triangle lineadj triangleadj
 
 " syn match fxCast		"\<\(const\|static\|dynamic\|reinterpret\)_cast\s*<"me=e-1
 " syn match fxCast		"\<\(const\|static\|dynamic\|reinterpret\)_cast\s*$"
-syn match fxSwizzle		/\.[xyzw]\{1,4\}/
-syn match fxSwizzle		/\.[rgba]\{1,4\}/
-syn match fxSwizzle		/\.\(_m[0-3]\{2}\)\{1,4\}/
+syn match fxSwizzle		/\v(\.)@<=[xyzw]{1,4}(\s|$)@=/
+syn match fxSwizzle		/\v(\.)@<=[rgba]{1,4}(\s|$)@=/
+syn match fxSwizzle		/\v(\.)@<=(_m[0-3]{2}){1,4}(\s|$)@=/
 syn match fxSwizzle		/\.\(_[1-4]\{2}\)\{1,4\}/
 syn match fxSemantic		/:\s*[A-Z]\w*/
 syn keyword fxStorageClass	in out inout uniform packed const
