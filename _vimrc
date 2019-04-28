@@ -171,6 +171,7 @@ nnoremap [t vatatov
 
 "map vP to select changed area.
 nnoremap <silent> vP `[v`]
+nnoremap <silent> v<C-P> `[<C-V>`]
 
 "map for command mode
 cnoremap <F1> <C-R>=escape()<Left>
